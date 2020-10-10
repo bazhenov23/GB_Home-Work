@@ -1,0 +1,6 @@
+variable_one = int(input("Введите переменную а  "))
+variable_two = int(input("Введите переменную b  "))
+word_one = input("Введите любое слово  ")
+word_two = input("Введите еще одно слово  ")
+print(variable_one, variable_two)
+print(f"Вы ввели слова {word_one} и {word_two}")
