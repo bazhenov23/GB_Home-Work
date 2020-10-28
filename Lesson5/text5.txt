@@ -1,0 +1,5 @@
+Astronomy 10 5 5
+Charms 5 4 3
+Divination 7 5 6
+Herbology 2 8 0
+History_of_Magic 4 3 2

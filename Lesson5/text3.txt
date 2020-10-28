@@ -1,0 +1,10 @@
+Ivanov 31000
+Petrov 22200
+Fomin 18000
+Sokolov 33000
+Kim 62000
+Vasin 32000
+Kostin 9000
+Jo 15000
+Fet 38000
+Beckhem 25000
